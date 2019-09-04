@@ -1,0 +1,11 @@
+{
+  "name": "iro",
+  "version": "0.0.1",
+  "description": "Color helpers in javascript",
+  "main": "index.js",
+  "author": "Lucas Inoue",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-cli": "^6.26.0"
+  }
+}
